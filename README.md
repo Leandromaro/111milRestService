@@ -24,8 +24,8 @@ Here, spring.jpa.hibernate.ddl-auto can be none, update, create, create-drop, re
 
 ### RUN
 
-mvn clean install
-java -jar target/gs-accessing-data-mysql-0.1.0.jar
+- mvn clean install
+- java -jar target/gs-accessing-data-mysql-0.1.0.jar
 
 ### Test the application
 
