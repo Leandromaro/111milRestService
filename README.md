@@ -29,7 +29,8 @@ Here, spring.jpa.hibernate.ddl-auto can be none, update, create, create-drop, re
 
 ### Test the application
 
-localhost:8080/demo/all This gets all data localhost:8080/demo/add This adds one user to the data
+- localhost:8080/demo/all gets all data 
+- localhost:8080/demo/add adds one user to the data
 
 
 This service was built using [Spring Guides](https://spring.io/guides/gs/accessing-data-mysql/).
