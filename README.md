@@ -1,7 +1,7 @@
 # 111milRestService
 A rest service example created at class
 
-##HOW TO RUN IT
+## HOW TO RUN IT
 
 ### Create a new database
 
